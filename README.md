@@ -51,17 +51,15 @@ The framework explicitly models predictive uncertainty rather than relying on de
 ## 📁 Repository Structure
 
 V-Mamba-EDL/
-│
-├── configs/               # Experiment configuration files
-├── datasets/              # Dataset loaders
-├── evaluation/            # Metrics and calibration evaluation
-├── inference/             # Inference scripts
-├── interpretability/      # LST maps & uncertainty heatmaps
-├── losses/                # Loss functions
-├── models/                # Model components
-├── robustness/            # Noise robustness experiments
-├── training/              # Training pipeline
-│
+├── configs/ # Experiment configuration files
+├── datasets/ # Dataset loaders
+├── evaluation/ # Metrics and calibration evaluation
+├── inference/ # Inference scripts
+├── interpretability/ # LST maps & uncertainty heatmaps
+├── losses/ # Loss functions
+├── models/ # Model components
+├── robustness/ # Noise robustness experiments
+├── training/ # Training pipeline
 ├── environment.yml
 ├── requirements.txt
 ├── setup.py
@@ -123,9 +121,13 @@ The Vision Mamba block is implemented in a simplified state-space form for repro
 ## 📄 Citation
 
 @article{Indrakumar2026VMambaEDL,
+
   title={V-Mamba-EDL: Reliability-Aware Brain Tumor Classification with Evidential Uncertainty Modeling},
+  
   author={Indrakumar K},
-  journal={Under Review},
+  
+  journal={},
+  
   year={2026}
 }
 
