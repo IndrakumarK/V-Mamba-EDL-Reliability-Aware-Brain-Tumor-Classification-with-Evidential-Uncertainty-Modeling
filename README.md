@@ -80,7 +80,7 @@ V-Mamba-EDL/
   https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection  
 
 - **Indk214 Dataset**  
-  https://www.kaggle.com/datasets/indk214/brain-tumor-dataset  
+https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification 
 
 ---
 
@@ -122,18 +122,12 @@ The Vision Mamba block is implemented in a simplified state-space form for repro
 ---
 
 ## 📄 Citation
-
-@article{Indrakumar2026VMambaEDL,
-
-  title={V-Mamba-EDL: Reliability-Aware Brain Tumor Classification with Evidential Uncertainty Modeling},
-  
-  author={Indrakumar K},
-  
-  journal={},
-  
+```
+@article{Indrakumar2026VMambaEDL,  title={V-Mamba-EDL: Reliability-Aware Brain Tumor Classification with Evidential Uncertainty Modeling},   
+  author={Indrakumar K}, journal={},  
   year={2026}
 }
-
+```
 ---
 
 ## 📜 License
