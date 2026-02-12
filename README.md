@@ -50,21 +50,24 @@ The framework explicitly models predictive uncertainty rather than relying on de
 
 ## 📁 Repository Structure
 
+```
 V-Mamba-EDL/
-├── configs/ # Experiment configuration files
-├── datasets/ # Dataset loaders
-├── evaluation/ # Metrics and calibration evaluation
-├── inference/ # Inference scripts
-├── interpretability/ # LST maps & uncertainty heatmaps
-├── losses/ # Loss functions
-├── models/ # Model components
-├── robustness/ # Noise robustness experiments
-├── training/ # Training pipeline
+├── configs/            # Experiment configuration files
+├── datasets/           # Dataset loaders
+├── evaluation/         # Metrics and calibration evaluation
+├── inference/          # Inference scripts
+├── interpretability/   # LST maps & uncertainty heatmaps
+├── losses/             # Loss functions
+├── models/             # Model components
+├── robustness/         # Noise robustness experiments
+├── training/           # Training pipeline
 ├── environment.yml
 ├── requirements.txt
 ├── setup.py
 ├── LICENSE
 └── README.md
+```
+
 
 ---
 
