@@ -124,7 +124,7 @@ The Vision Mamba block is implemented in a simplified state-space form for repro
 ## 📄 Citation
 ```
 @article{Indrakumar2026VMambaEDL,  title={V-Mamba-EDL: Reliability-Aware Brain Tumor Classification with Evidential Uncertainty Modeling},   
-  author={Indrakumar K}, journal={},  
+  author={Indrakumar K}, journal={Neuroinformatics},  
   year={2026}
 }
 ```
